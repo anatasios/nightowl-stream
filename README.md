@@ -12,6 +12,7 @@ C program for authenticating to and retreiving a stream from a camera on specifi
 # Usage
 
 ./nightowl-stream \<IP of DVR\> \<channel\>
+
 Channel can be 1-4.
 
 Raw H264-ES video is output to stdio.  Piping it to a file you can play it back
